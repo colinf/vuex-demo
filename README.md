@@ -1,21 +1,13 @@
 # vuex-demo
 
-> An example vuex project to accompany a blog post
+> An example project to accompany a [blog post](http://j.mp/2n2nK6R) about [Vuex](https://vuex.vuejs.org)
 
-## Build Setup
+![](http://cfshare.s3-eu-west-1.amazonaws.com/2017-03-23_13-50-09.png)
 
-``` bash
-# install dependencies
-npm install
+## Running the example project
 
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+1. git clone https://github.com/colinf/vuex-demo.git
+2. cd vuex-demo
+3. npm install
+4. npm run start
+6. Visit [http://localhost:8080](http://localhost:8080)
